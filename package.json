@@ -1,0 +1,23 @@
+{
+  "name": "jwbsite2402",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "laravel-mix": "^6.0.49",
+    "normalize.css": "^8.0.1",
+    "uniformcss": "^1.5.4"
+  },
+  "devDependencies": {
+    "flexboxgrid": "^6.3.1",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.70.0",
+    "sass-loader": "^12.6.0"
+  }
+}

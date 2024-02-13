@@ -1,0 +1,16 @@
+/* 
+*Config Setup Grid System and framework
+*/
+@use "../../node_modules/normalize.css/normalize.css";
+@use "../../node_modules/flexboxgrid/css/flexboxgrid.min.css";
+
+
+  .l-container{
+    max-width:1200px;
+    margin:0 auto;
+    padding-left:2rem;
+    padding-right:2rem;
+  }
+@import "components/partials1";
+
+
