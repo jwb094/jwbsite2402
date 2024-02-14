@@ -48365,3 +48365,19 @@ select {
 body {
   font: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+[data-component-comments] .slick-dots {
+  top: 255px;
+}
+@media only screen and (min-width: 768px) {
+  [data-component-comments] .slick-dots {
+    top: 124px;
+  }
+}
+[data-component-comments] .slick-dots li {
+  margin: 0 18px;
+}
+[data-component-comments] .slick-dots li button:before {
+  font-size: 30px;
+  color: grey;
+}
