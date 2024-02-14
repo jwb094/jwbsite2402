@@ -8,8 +8,10 @@
   $config: (
     important: true,
     colors: (
-      custom-color-1: red,
-      custom-color-2: blue
+      primary-blue-1: #10bbf1,
+      primary-blue-2: #324a57,
+      secondary-grey-1:#fafafa,
+      secondary-grey-2:#d8d8d8
     ),
   )
 );
@@ -18,6 +20,9 @@
     margin:0 auto;
     padding-left:2rem;
     padding-right:2rem;
+  }
+  body{
+    font: "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 @import "components/partials1";
 
