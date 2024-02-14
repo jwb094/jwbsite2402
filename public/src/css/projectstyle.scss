@@ -24,8 +24,9 @@
   body{
     font: "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
-@import "components/partials1";
-@import "components/comments";
+
+@import "components/home-header";
 @import "components/video";
+@import "components/comments";
 
 
