@@ -1,0 +1,15 @@
+[data-component-comments]{
+.slick-dots {
+    top: 255px;
+    @media only screen and (min-width: 768px) {
+        top: 124px;
+    }
+    li {
+        margin: 0 18px;
+        button:before{
+        font-size: 30px; 
+        color: grey;
+        }
+    }
+}
+}
